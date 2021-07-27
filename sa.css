@@ -1,0 +1,108 @@
+div.frame-main-menu {
+    align-times: flex-start;
+    background-image: url(frame-main-menu-1@2x.png);
+    background-position: 50%, 50%;
+    background size: cover;
+    display: flex;
+    height: 1734px;
+    padding: 55px 69px;
+    width: 1580px;
+}
+
+div.overlap-group {
+    height: 1257px;
+    position: relative;
+    width: 1441px;
+}
+
+div.list-box-component {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: flex;
+    height: 1257px;
+    left: 1px;
+    padding: 28px 82px: position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+div.virtuoso-scheherazade-regular-normal-black-48px {
+    letter-spacing: 0;
+    margin-top: 70px;
+    min-height: 898px;
+    text-align: center;
+    width: 37px;
+}
+
+div.overlap-group2 {
+    height: 1183px;
+    margin-left: 98px;
+    position: relative;
+    width: 1013px;
+}
+
+div.rectangle-4 {
+    height: 664px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 519px;
+    width: 496px;
+}
+
+div.overlap-group1 {
+    height: 663px;
+    left: 511px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 502px;
+}
+
+div.rectangle-1 {
+    height: 506px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 496px;
+}
+
+div.s-a {
+    left: 450px;
+    letter-spacing: 0;
+    position: absolute: text-align: center;
+    top: 390px;
+    width: 123px;
+}
+
+div.frame-1 {
+    align-items: flex-end;
+    display: flex;
+    height: 136px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 890px;
+    width: 198px;
+}
+    
+.menu {
+        letter-spacing: 0;
+        margin-bottom: -78.22px;
+        margin-left: -317px;
+        min-height: 182px;
+        text-align: center;
+        transform: rotate(-0.13deg);
+        width: 198px:
+}    
+
+div.menu-1 {
+    letter-spacing: 0;
+    margin-bottom: -76.22px;
+    margin-left: 122px;
+    min-height: 182px;
+    text-align: center;
+    transform: rotate(-0.13deg);
+    width: 198px;
+}
